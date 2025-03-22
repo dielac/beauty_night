@@ -13,9 +13,9 @@ The project is structured with a clean and organized file system to make it easy
 ├── css/
 │   └── styles.css     # Custom styles
 ├── public/
-│   ├── hair.jpeg      # Hero image
-│   └── pedi.jpeg      # Circular logo image
-└── README.md          # This file
+│   ├── hair.jpeg      # hair styling pic
+│   └── pedi.jpeg      # nails done pic
+└── README.md          # readme file 
 ```
 
 ## Technologies Used
