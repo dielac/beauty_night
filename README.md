@@ -35,19 +35,11 @@ The project is structured with a clean and organized file system to make it easy
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/dielac/beauty_night
-   ```
-2. Navigate into the project folder:
-   ```bash
-   cd beauty_night_final
-   ```
-3. Open the `index.html` file in your favorite web browser:
-   ```bash
-   open index.html
-   ```
+    ```
 
 
 ## Contributing
-If you’d like to contribute, feel free to fork this project, make your changes, and open a pull request. Feel free to also message me on github or email me at suziecamaj@yahoo.com. 
+If you’d like to contribute, feel free to look at my project, make your changes, and open a pull request. Feel free to also message me on github or email me at suziecamaj@yahoo.com. 
 
 
 
