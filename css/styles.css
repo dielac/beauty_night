@@ -1,0 +1,81 @@
+body {
+    background-color: #E6E6FA;  
+    color: #4B0082;               
+}
+
+
+.navbar {
+    background-color: #9370DB;   
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 15px;
+    display: inline-block;
+}
+
+.navbar a:hover {
+    background-color: #6A5ACD;   
+}
+
+.site-header {
+    background-color: #8A2BE2;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.site-footer {
+    background-color: #9370DB;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+button {
+    background-color: #9370DB;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    border-radius: 5px;
+ 
+}
+
+button:hover {
+    background-color: #6A5ACD;  
+}
+
+
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    padding: 20px;
+    text-align: center;
+}
+
+input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="submit"] {
+    background-color: #9370DB;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+ 
+}
+
+input[type="submit"]:hover {
+    background-color: #6A5ACD;
+}
